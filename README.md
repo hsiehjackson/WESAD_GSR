@@ -2,10 +2,10 @@
 
 * Download Raw Data
 
-Datasource:https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29
+Datasource：https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29
 1. ``wget https://uni-siegen.sciebo.de/s/pYjSgfOVs6Ntahr/download``
-2. ``unzip download.zip``
-3. Put the folder ``WESAD`` data into ``./data `` folder
+2. ``unzip download.zip`` and get ``WESAD`` folder
+3. Put the folder ``WESAD`` into ``./data `` folder
 
 * Segmentation
 
