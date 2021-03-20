@@ -31,7 +31,7 @@ idna==2.8
 incremental==16.10.1
 ipython-genutils==0.2.0
 jieba==0.39
-Jinja2==2.10.1
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonpatch==1.16
 jsonpointer==1.10
