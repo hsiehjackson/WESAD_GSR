@@ -61,7 +61,7 @@ pycairo==1.16.2
 pycrypto==2.6.1
 pyentrp==0.5.0
 pygobject==3.26.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 pyOpenSSL==17.5.0
 pyparsing==2.3.0
 Pypsy==0.1.5
