@@ -49,7 +49,7 @@ MarkupSafe==1.1.1
 matplotlib==3.0.2
 mpmath==1.1.0
 netifaces==0.10.4
-numpy==1.16.4
+numpy==1.22.0
 oauthlib==2.0.6
 PAM==0.4.2
 pandas==0.23.4
