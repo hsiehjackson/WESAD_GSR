@@ -53,7 +53,7 @@ numpy==1.16.4
 oauthlib==2.0.6
 PAM==0.4.2
 pandas==0.23.4
-Pillow==5.3.0
+Pillow==9.3.0
 protobuf==3.6.1
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
